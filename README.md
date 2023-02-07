@@ -13,6 +13,6 @@ This project contains data and financial analysis projects I am working on.
 
 - **[Medical records Analytics](https://github.com/princedede/Data-Analysis-Projects/blob/main/Medical-record-chart.png)**
 
-- **Supply chain analysis using Excel.
+- **Supply chain analysis using Excel**
 
 - **[Supply chain analysis from codebasis](https://github.com/princedede/Data-Analysis-Projects/blob/main/Supply%20chain%20analysis.png)**
