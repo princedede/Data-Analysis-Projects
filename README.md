@@ -3,7 +3,7 @@
 This project contains data and financial analysis projects I am working on.
 
 
-- **[Mcdonald's Menu Nutrition Facts](https://medium.com/@princedede/nutrional-fact-for-mcdonalds-menu-a-data-analysis-project-6f1d06dfb7ea)
+- **[Mcdonald's Menu Nutrition Facts](https://medium.com/@princedede/nutrional-fact-for-mcdonalds-menu-a-data-analysis-project-6f1d06dfb7ea)**
 ![Screenshot 2023-02-06 150023](https://user-images.githubusercontent.com/78348683/217225604-bd385b8b-43b7-4687-8ad7-b151cc0a5460.png)
 
 
