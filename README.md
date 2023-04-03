@@ -17,6 +17,9 @@
 - **[Supply chain data visualization - PowerBI](https://github.com/princedede/Data-Analysis-Projects/blob/main/Global%20Superstore.pbix)**
 ![Screenshot_20230210_123351](https://user-images.githubusercontent.com/78348683/217963173-00689b61-098f-4a50-a43c-78be372ea172.png)
 
+- **[Sentiment Analysis Using Python - Hotel Reviews](https://github.com/princedede/Data-Analysis-Projects/blob/main/SentimentAnalysisHotelReviews.ipynb)
+[Medium Link](https://medium.com/@princedede/sentiment-analysis-using-python-hotel-reviews-case-study-c6b81f7cfa96)
+
 - **[Population of Latin and Carribean countries](https://github.com/princedede/Data-Analysis-Projects/blob/main/latin_carribean%20population.png)**
 
 - **[Medical records Analytics](https://github.com/princedede/Data-Analysis-Projects/blob/main/Medical-record-chart.png)**
